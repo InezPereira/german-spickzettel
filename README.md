@@ -1,0 +1,2 @@
+# german-spickzettel
+German - Spickzettel 🇩🇪
